@@ -1,0 +1,4 @@
+interface:
+  display_name: "DOCX to Markdown"
+  short_description: "Convert .docx files to UTF-8 Markdown."
+  default_prompt: "Convert this .docx file to Markdown, preserving paragraphs and tables."
